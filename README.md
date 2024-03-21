@@ -7,7 +7,7 @@ input file format:
 7165551000
 7165551005 - 1010
 7165551111
-  
+
 output file format:
 7165551000
 7165551005
